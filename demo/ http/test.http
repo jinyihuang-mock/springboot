@@ -1,5 +1,13 @@
-GET http://localhost:80/api/item
+GET http://localhost:8080/hello
 Accept: application/json
 
 ###
+
+POST http://localhost:8080/hello/post
+Content-Type: application/x-www-form-urlencoded
+
+name=Test
+
+###
+
 ###
