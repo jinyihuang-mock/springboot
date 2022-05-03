@@ -1,0 +1,25 @@
+2022-05-03 17:27:30.472 INFO  com.wiki.demo.DemoApplication                     :55   [32m                  [0;39m Starting DemoApplication using Java 1.8.0_121 on 根号3 with PID 2644 (D:\springboot\demo\target\classes started by jin-y in D:\springboot)
+2022-05-03 17:27:30.475 INFO  com.wiki.demo.DemoApplication                     :640  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2022-05-03 17:27:31.296 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-05-03 17:27:31.306 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-05-03 17:27:31.308 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-05-03 17:27:31.308 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-03 17:27:31.410 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-05-03 17:27:31.410 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :290  [32m                  [0;39m Root WebApplicationContext: initialization completed in 898 ms
+2022-05-03 17:27:31.714 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-05-03 17:27:31.732 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-03 17:27:31.743 INFO  com.wiki.demo.DemoApplication                     :61   [32m                  [0;39m Started DemoApplication in 1.811 seconds (JVM running for 2.623)
+2022-05-03 17:46:09.920 INFO  com.wiki.demo.DemoApplication                     :55   [32m                  [0;39m Starting DemoApplication using Java 1.8.0_121 on 根号3 with PID 20176 (D:\springboot\demo\target\classes started by jin-y in D:\springboot)
+2022-05-03 17:46:09.923 INFO  com.wiki.demo.DemoApplication                     :640  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2022-05-03 17:46:10.726 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-05-03 17:46:10.734 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-05-03 17:46:10.734 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-05-03 17:46:10.735 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-03 17:46:10.833 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-05-03 17:46:10.834 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :290  [32m                  [0;39m Root WebApplicationContext: initialization completed in 874 ms
+2022-05-03 17:46:11.090 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-05-03 17:46:11.107 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-03 17:46:11.116 INFO  com.wiki.demo.DemoApplication                     :61   [32m                  [0;39m Started DemoApplication in 1.638 seconds (JVM running for 2.495)
+2022-05-03 17:46:11.801 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-03 17:46:11.801 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-05-03 17:46:11.802 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
