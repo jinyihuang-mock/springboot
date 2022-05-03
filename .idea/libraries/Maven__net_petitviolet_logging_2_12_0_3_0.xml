@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.petitviolet:logging_2.12:0.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../maven/apache-maven-3.8.4/repository/net/petitviolet/logging_2.12/0.3.0/logging_2.12-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../maven/apache-maven-3.8.4/repository/net/petitviolet/logging_2.12/0.3.0/logging_2.12-0.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../maven/apache-maven-3.8.4/repository/net/petitviolet/logging_2.12/0.3.0/logging_2.12-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
