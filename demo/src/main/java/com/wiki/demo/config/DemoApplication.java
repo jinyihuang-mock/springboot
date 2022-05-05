@@ -1,12 +1,14 @@
 package com.wiki.demo.config;
 
 
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @ComponentScan("com.wiki")
 @SpringBootApplication
+@MapperScan("com.wiki")
 public class DemoApplication {
 
 //    private static final Logger LOG = LoggerFactory.getLogger(DemoApplication.class);

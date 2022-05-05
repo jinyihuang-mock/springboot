@@ -1,11 +1,16 @@
 package com.wiki.demo.controller;
 
+import com.wiki.demo.domain.Test;
+import com.wiki.demo.service.TestService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import java.util.List;
 
 @Component
 @RestController
@@ -16,6 +21,12 @@ public class TestController {
     @Value("$test")
 //    @Autowired
     private String test;
+
+    //引入Service
+    @Autowired
+    private TestService testService;
+
+
 
 //    @GetMapping("/hello")
 
@@ -30,4 +41,10 @@ public class TestController {
     public String helloPost(String name){
         return name + "post";
     }
+
+    @RequestMapping("/test/list")
+    public List<Test> list(){
+        return testService.list();
+    }
+
 }
