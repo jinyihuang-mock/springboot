@@ -1,0 +1,15 @@
+GET http://localhost:8880/hello
+Accept: application/json
+
+###
+
+POST http://localhost:8880/hello/post
+Content-Type: application/x-www-form-urlencoded
+
+name=Demo2222222233333333222222222
+
+###
+
+GET http://localhost:8880/demo/list1
+Accept: application/json
+###

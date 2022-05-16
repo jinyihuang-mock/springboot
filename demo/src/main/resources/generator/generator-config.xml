@@ -40,8 +40,8 @@
                              targetPackage="com.wiki.demo.mapper"
                              type="XMLMAPPER"/>
 
-        <table tableName="demo" domainObjectName="Demo"/>
-        <!--<table tableName="ebook"/>-->
+<!--        <table tableName="demo" domainObjectName="Demo"/>-->
+        <table tableName="ebook"/>
 <!--        <table tableName="category"/>-->
 <!--        <table tableName="schema"/>-->
         <!--<table tableName="doc"/>-->
