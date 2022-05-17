@@ -10,6 +10,6 @@ name=Demo2222222233333333222222222
 
 ###
 
-GET http://localhost:8880/ebook/list1
+GET http://localhost:8880/ebook/list?name=spring
 Accept: application/json
 ###
