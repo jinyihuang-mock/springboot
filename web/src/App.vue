@@ -60,13 +60,11 @@
             </a-sub-menu>
           </a-menu>
         </a-layout-sider>
-        <a-layout-content :style="{ padding: '0 24px', minHeight: '280px' }">
-          Content
-        </a-layout-content>
+
       </a-layout>
     </a-layout-content>
     <a-layout-footer style="text-align: center">
-      Ant Design ©2018 Created by Ant UED
+      个人电子书
     </a-layout-footer>
   </a-layout>
 </template>
